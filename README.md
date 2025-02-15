@@ -15,7 +15,7 @@ Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
 1.  definir les besoins du client
 2.  comprendre son metier
 3.  réaliser le plan du site (wireframe)
-    1.  valider avec le client
-    2.  valider avec l'équipe dev
+    -   valider avec le client
+    -   valider avec l'équipe dev
 4.  création des maquettes dans l'outil FIGMA
 5.  develloppent du code
