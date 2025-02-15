@@ -18,4 +18,6 @@ Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
     -   valider avec le client
     -   valider avec l'équipe dev
 4.  création des maquettes dans l'outil FIGMA
-5.  develloppent du code
+5.  mise en develloppement
+6.  réalisation de test
+7.  déploiement du site chez l'hébergeur
