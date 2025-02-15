@@ -6,14 +6,16 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
-##Description
+## Description
 
 Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
 
-###Les differentes étapes du projet :
+### Les differentes étapes du projet :
 
--   definir les besoins du client
--   comprendre son metier
--   réaliser le plan du site (wireframe) et le valider avec le client et l'équipe dev
--   création des maquettes dans l'outil FIGMA
--   develloppent du code
+1.  definir les besoins du client
+2.  comprendre son metier
+3.  réaliser le plan du site (wireframe)
+    1.  valider avec le client
+    2.  valider avec l'équipe dev
+4.  création des maquettes dans l'outil FIGMA
+5.  develloppent du code
