@@ -10,7 +10,7 @@
 
 Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
 
-### Les differentes étapes du projet :
+### Les différentes étapes du projet :
 
 1.  Définir les besoins du client
 2.  Comprendre son métier
@@ -25,6 +25,8 @@ Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
     -   réalisation du code html et css
 6.  Réalisation de test
 7.  Déploiement du site chez l'hébergeur
+
+---
 
 #### Infos utiles
 
