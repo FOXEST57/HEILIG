@@ -12,12 +12,16 @@ Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
 
 ### Les differentes étapes du projet :
 
-1.  definir les besoins du client
-2.  comprendre son metier
-3.  réaliser le plan du site (wireframe)
+1.  Définir les besoins du client
+2.  Comprendre son métier
+3.  Réaliser le plan du site (wireframe)
     -   valider avec le client
     -   valider avec l'équipe dev
-4.  création des maquettes dans l'outil FIGMA
-5.  mise en develloppement
-6.  réalisation de test
-7.  déploiement du site chez l'hébergeur
+4.  Création des maquettes dans l'outil FIGMA
+5.  Mise en develloppement
+    -   traitement des photos
+    -   création d'un branche DEV dans github
+    -   création d'une branche pour chaque dévellopeur dans github
+    -   réalisation du code html et css
+6.  Réalisation de test
+7.  Déploiement du site chez l'hébergeur
