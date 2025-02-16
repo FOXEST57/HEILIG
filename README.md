@@ -33,3 +33,5 @@ Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
 Le client fait du recyclage de fer et métaux du transport de marchandise, de l'évacuation de déchet (terre,gravas...) et également nétoyage de fin de chantier.
 
 Il exerce sont activité auprès d'une clientèle de particulier et d'entreprise dans un rayons de 150km autour de METZ.
+
+test push
