@@ -18,10 +18,10 @@ Réalisation d'un site vitrine en utilisant uniquement HTML et CSS.
     -   valider avec le client
     -   valider avec l'équipe dev
 4.  Création des maquettes dans l'outil FIGMA
-5.  Mise en develloppement
+5.  Mise en developpement
     -   traitement des photos
     -   création d'un branche DEV dans github
-    -   création d'une branche pour chaque dévellopeur dans github
+    -   création d'une branche pour chaque développeur dans github
     -   réalisation du code html et css
 6.  Réalisation de test
 7.  Déploiement du site chez l'hébergeur
